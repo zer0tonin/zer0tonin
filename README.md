@@ -1,3 +1,11 @@
 ### Hi there 👋
 
-![Stats](https://github-stats-alpha.vercel.app/api?username=zer0tonin)
+I'm Alice, a software engineer based in Breda, the Netherlands.
+I have been programming for over 10 years, including 7 years professionally.
+I have worked for companies you may already know well, such as [Dailymotion](https://www.dailymotion.com/), [MEE6](https://mee6.xyz/), and [Plaid](https://plaid.com/).
+
+Right now, I'm working at [Tsukumogami Software](https://tsukumogami.software/), a software and game studio I co-founded with [Daphnée Portheault](https://github.com/Elesh-Norn/).
+We have created [Dice'n Goblins](https://store.steampowered.com/app/2945950/Dice_n_Goblins/), a dungeon-crawler where you play with dice, and [Itako](https://itako.app), a stock portfolio tracker that gives you a holistic view of your investments.
+
+My most popular open source project is [Mikochi](https://github.com/zer0tonin/Mikochi/), a web-based file manager that allows you to stream files to VLC/MPV.
+I also write about software on my blog [alicegg.tech](https://alicegg.tech).
