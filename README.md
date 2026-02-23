@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Alice, a software engineer based in Breda, the Netherlands.
-I have been programming for over 10 years, including 7 years professionally.
+I have been programming for close to 15 years, including 8 years professionally.
 I have worked for companies you may already know well, such as [Dailymotion](https://www.dailymotion.com/), [MEE6](https://mee6.xyz/), and [Plaid](https://plaid.com/).
 
 Right now, I'm working at [Tsukumogami Software](https://tsukumogami.software/), a software and game studio I co-founded with [Daphnée Portheault](https://github.com/Elesh-Norn/).
