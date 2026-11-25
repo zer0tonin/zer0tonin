@@ -7,5 +7,5 @@ In the past, I worked for companies you may already know well, such as [Dailymot
 Alongside [Daphnée Portheault](https://github.com/Elesh-Norn/), I co-founded [Tsukumogami Software](https://tsukumogami.software/), an indie game development studio.
 We have created [Dice'n Goblins](https://store.steampowered.com/app/2945950/Dice_n_Goblins/), a role-playing game about fighting your way out of an endless dungeon using dice, and we are currently building [Paradox Tower](https://store.steampowered.com/app/4142360/Paradox_Tower/), a game about helping a witch through 12 interconnected labyrinths.
 
-My most popular open source project is [Mikochi](https://github.com/zer0tonin/Mikochi/), a web-based file manager that allows you to stream files to VLC/MPV.\
+My most popular open source project is [Mikochi](https://github.com/zer0tonin/Mikochi/), a web-based file manager that allows you to stream files to VLC/MPV.
 I also write about technology on my blog [alicegg.tech](https://alicegg.tech).
