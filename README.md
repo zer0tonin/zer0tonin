@@ -8,5 +8,4 @@ Alongside [Daphnée Portheault](https://github.com/Elesh-Norn/), I co-founded [T
 We have created [Dice'n Goblins](https://store.steampowered.com/app/2945950/Dice_n_Goblins/), a role-playing game about fighting your way out of an endless dungeon using dice, and we are currently building [Paradox Tower](https://store.steampowered.com/app/4142360/Paradox_Tower/), a game about helping a witch through 12 interconnected labyrinths.
 
 My most popular open source project is [Mikochi](https://github.com/zer0tonin/Mikochi/), a web-based file manager that allows you to stream files to VLC/MPV.\
-As closed-source side project, I run [Itako](https://itako.app), a stock portfolio tracker that gives you a holistic view of your investments.
 I also write about technology on my blog [alicegg.tech](https://alicegg.tech).
